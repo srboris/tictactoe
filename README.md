@@ -1,5 +1,8 @@
 # Tictactoe
 
+![alt text](https://www.dropbox.com/s/1ezvl2078opzkya/tictactoe.png?dl=0)
+
+Build a tic-tac-toe game with Angular 8 and Nebula Cosmic theme. 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
 
 ## Development server
